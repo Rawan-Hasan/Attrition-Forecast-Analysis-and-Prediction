@@ -59,4 +59,11 @@ here's a general list of common features you might find in such a dataset:
 26-Years In Current Role: The number of years the employee has been in their current role.
 
 27-Years Since Last Promotion: The number of years since the last time the employee was promoted.
+
 28-Years With Current Manager: The number of years the employee has been working under the current manager.
+
+
+## Building Machine Learning Models
+1. Perform EDA
+2. Perform Feature Engineering
+3. Apply Algorithms
