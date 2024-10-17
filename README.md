@@ -67,3 +67,21 @@ here's a general list of common features you might find in such a dataset:
 1. Perform EDA
 2. Perform Feature Engineering
 3. Apply Algorithms
+
+Here are some commonly used models for binary classification tasks like attrition prediction:
+
+*Logistic Regression
+
+*Decision Trees
+
+*Random Forest
+
+*Gradient Boosting (e.g., XGBoost or LightGBM)
+
+*Support Vector Machines (SVM)
+
+*Neural Networks
+
+*K-Nearest Neighbors (KNN)
+
+*Ensemble Methods
