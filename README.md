@@ -7,6 +7,7 @@ This dataset spans the last five years and includes information on employees who
 here's a general list of common features you might find in such a dataset:
 
 1-Employee ID: A unique identifier for each employee.
+
 2-Age: The age of the employee.
 3-Attrition: A binary variable indicating whether the employee has left the company (1) or is still employed (0).
 4-Business Travel: The frequency and nature of business-related travel (e.g., "Travel_Rarely," "Travel_Frequently," "Non-Travel").
